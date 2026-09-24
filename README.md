@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Data Structures, Python, Java, Web design, OS, Data communication, Digital electronic, Any cst subject**
 
-- 👨‍💻 All of my projects are available at [https://omorfaruk-store.netlify.app/](https://omorfaruk-store.netlify.app/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript Basics, Type script Basic**
 
