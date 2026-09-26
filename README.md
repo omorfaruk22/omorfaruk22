@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- GREEN NEON HEADER SVG BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=OMOR%20FARUK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Web%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descScale=18" width="100%" alt="Omor Faruk Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=OMOR%20FARUK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descScale=18" width="100%" alt="Omor Faruk Header Banner" />
 
   <br />
 
@@ -32,13 +32,13 @@
 <div>
   <h2>💚 About Me</h2>
   <p>
-    Hello! I'm <b>Omor Faruk</b>, a passionate <b>Web Engineer</b> and Full-Stack Developer based in Bangladesh. I build robust, user-centric web applications and digital experiences using modern JavaScript frameworks.
+    Hello! I'm <b>Omor Faruk</b>, a passionate <b>Full-Stack Web Developer</b> based in Bangladesh. I build robust, user-centric web applications and digital experiences using modern JavaScript frameworks.
   </p>
   <ul>
     <li>🚀 <b>Currently Building:</b> Production-ready E-commerce ecosystem (Omor Faruk Store).</li>
     <li>⚡ <b>Core Focus:</b> Next.js App Router, Server Components, State Management & Database Design.</li>
     <li>🎯 <b>Goal:</b> Delivering high-performance, pixel-perfect web platforms with seamless UX.</li>
-    <li>📚 <b>Continuous Learning:</b> Exploring advanced backend architectures & AI workflows.</li>
+    <li>📚 <b>Continuous Learning:</b> Exploring advanced backend architectures & scalable system design.</li>
   </ul>
 </div>
 
@@ -92,7 +92,7 @@
 
 <br />
 
-<!-- RELIABLE METRICS SECTION (100% WORKING) -->
+<!-- RELIABLE METRICS SECTION -->
 <h2 align="center">📊 Activity Metrics</h2>
 
 <div align="center">
