@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- GREEN NEON HEADER SVG BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=OMOR%20FARUK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descScale=18" width="100%" alt="Omor Faruk Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=OMOR%20FARUK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CST%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descScale=18" width="100%" alt="Omor Faruk Header Banner" />
 
   <br />
 
@@ -21,7 +21,7 @@
 
   <!-- TYPING SUB-BANNER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vcenter=true&width=500&height=40&lines=Specializing+in+Next.js+15+%26+React;Building+Scalable+E-Commerce+Platforms;Writing+Clean%2C+Maintainable+Code" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vcenter=true&width=500&height=40&lines=Computer+Science+%26+Technology+Student;Specializing+in+Next.js+15+%26+React;Building+Scalable+E-Commerce+Platforms" alt="Typing Animation" />
   </a>
 
 </div>
@@ -32,9 +32,10 @@
 <div>
   <h2>💚 About Me</h2>
   <p>
-    Hello! I'm <b>Omor Faruk</b>, a passionate <b>Full-Stack Web Developer</b> based in Bangladesh. I build robust, user-centric web applications and digital experiences using modern JavaScript frameworks.
+    Hello! I'm <b>Omor Faruk</b>, a <b>Computer Science & Technology (CST)</b> student and passionate <b>Full-Stack Web Developer</b> based in Bangladesh. I build robust, user-centric web applications and digital experiences using modern JavaScript frameworks.
   </p>
   <ul>
+    <li>🎓 <b>Education:</b> Computer Science & Technology (CST) Student.</li>
     <li>🚀 <b>Currently Building:</b> Production-ready E-commerce ecosystem (Omor Faruk Store).</li>
     <li>⚡ <b>Core Focus:</b> Next.js App Router, Server Components, State Management & Database Design.</li>
     <li>🎯 <b>Goal:</b> Delivering high-performance, pixel-perfect web platforms with seamless UX.</li>
