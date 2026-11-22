@@ -77,7 +77,7 @@
 <br />
 
 <!-- FEATURED HIGHLIGHT / SHOWCASE CARD -->
-<div align="center">
+<!-- <div align="center">
   <table width="100%">
     <tr>
       <td bgcolor="#064E3B" align="center" style="padding: 20px; border-radius: 12px;">
@@ -91,7 +91,7 @@
   </table>
 </div>
 
-<br />
+<br /> -->
 
 <!-- RELIABLE METRICS SECTION -->
 <h2 align="center">📊 Activity Metrics</h2>
