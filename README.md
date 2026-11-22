@@ -2,10 +2,10 @@
 <div align="center">
 
   <!-- GREEN NEON HEADER SVG BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=OMOR%20FARUK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CST%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descScale=18" width="100%" alt="Omor Faruk Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=220&section=header&text=OMOR%20FARUK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=62&descScale=18" width="100%" alt="Omor Faruk Header Banner" />
 
   <br />
-
+<!-- <div>CST%20Student%20%7C%20</div> -->
   <!-- BADGES / CONTACT BUTTONS -->
   <p align="center">
     <a href="mailto:omorfaruk22571@gmail.com">
